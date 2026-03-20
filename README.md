@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalSahu-123/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KunalSahu-123/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KunalSahu-123/leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalSahu-123/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
