@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KunalSahu-123/leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/KunalSahu-123/leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KunalSahu-123/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KunalSahu-123/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
