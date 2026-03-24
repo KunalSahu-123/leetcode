@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KunalSahu-123/leetcode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/KunalSahu-123/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalSahu-123/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KunalSahu-123/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/KunalSahu-123/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KunalSahu-123/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalSahu-123/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
