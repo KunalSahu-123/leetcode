@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KunalSahu-123/leetcode/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/KunalSahu-123/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
